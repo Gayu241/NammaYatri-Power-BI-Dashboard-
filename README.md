@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents a comprehensive data analysis of the Namma Yatri ride-hailing dataset, conducted using Power BI. The goal was to uncover key insights into operational efficiency, ride demand patterns, revenue generation, and customer behavior to inform strategic decision-making and improve overall service quality.
+This project presents a comprehensive data analysis of the Namma Yatri dataset, conducted using Power BI. The goal was to uncover key insights into operational efficiency, ride demand patterns, revenue generation, and customer behavior to inform strategic decision-making and improve overall service quality.
 
 ## Problem Statement
 
