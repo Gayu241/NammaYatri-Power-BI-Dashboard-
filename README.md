@@ -67,7 +67,7 @@ Based on the analysis, the following recommendations are put forth for Namma Yat
 
 1.  **Download Power BI Desktop:** Ensure you have [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your machine.
 2.  **Clone this Repository:** `git clone [repository_url]`
-3.  **Open the `.pbix` file:** Navigate to the project directory and open the `NammaYatri_Powerbi_Dashboard.pbix` file with Power BI Desktop. The data is embedded within the file.
+3.  **Open the `.pbix` file:** Navigate to the project directory and open the `NammaYatri_PowerBi_Dashboard.pbix` file with Power BI Desktop. The data is embedded within the file.
 4.  **Interact with Dashboards:** Explore the interactive dashboards and reports to delve deeper into the insights.
 
 ---
